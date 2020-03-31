@@ -1,0 +1,13 @@
+C:\Users\iscrq\Desktop\wsFactoryPizzaStore\bin\Debug\netcoreapp3.1\wsFactoryPizzaStore.exe
+C:\Users\iscrq\Desktop\wsFactoryPizzaStore\bin\Debug\netcoreapp3.1\wsFactoryPizzaStore.deps.json
+C:\Users\iscrq\Desktop\wsFactoryPizzaStore\bin\Debug\netcoreapp3.1\wsFactoryPizzaStore.runtimeconfig.json
+C:\Users\iscrq\Desktop\wsFactoryPizzaStore\bin\Debug\netcoreapp3.1\wsFactoryPizzaStore.runtimeconfig.dev.json
+C:\Users\iscrq\Desktop\wsFactoryPizzaStore\bin\Debug\netcoreapp3.1\wsFactoryPizzaStore.dll
+C:\Users\iscrq\Desktop\wsFactoryPizzaStore\bin\Debug\netcoreapp3.1\wsFactoryPizzaStore.pdb
+C:\Users\iscrq\Desktop\wsFactoryPizzaStore\obj\Debug\netcoreapp3.1\wsFactoryPizzaStore.csprojAssemblyReference.cache
+C:\Users\iscrq\Desktop\wsFactoryPizzaStore\obj\Debug\netcoreapp3.1\wsFactoryPizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\iscrq\Desktop\wsFactoryPizzaStore\obj\Debug\netcoreapp3.1\wsFactoryPizzaStore.AssemblyInfoInputs.cache
+C:\Users\iscrq\Desktop\wsFactoryPizzaStore\obj\Debug\netcoreapp3.1\wsFactoryPizzaStore.AssemblyInfo.cs
+C:\Users\iscrq\Desktop\wsFactoryPizzaStore\obj\Debug\netcoreapp3.1\wsFactoryPizzaStore.dll
+C:\Users\iscrq\Desktop\wsFactoryPizzaStore\obj\Debug\netcoreapp3.1\wsFactoryPizzaStore.pdb
+C:\Users\iscrq\Desktop\wsFactoryPizzaStore\obj\Debug\netcoreapp3.1\wsFactoryPizzaStore.genruntimeconfig.cache
